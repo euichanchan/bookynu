@@ -190,6 +190,21 @@ body {
     color: #f73737;
     text-decoration: underline;
 }
+.ynu-link {
+	font-size: 1.5rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #0A0EF1;
+    text-decoration: underline;	
+}
+.ynu-link:hover {
+	font-size: 1.5rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #0A0EF1;
+    text-decoration: underline;	
+}
+	
 .result-message {
     font-size: 2rem;
 }
